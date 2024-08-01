@@ -32,7 +32,7 @@ Edtech
 + 🗓️ **De organización:** Trello, Slack, Herramientas de Google.
 + 🎨 **Para prototipo y presentación:** Figma, Canva, Whimscal, Userbit.
 
-## Reconocimiento e 
+## Reconocimiento
 A No Country por ser un puente entre nosotros y el mundo profesional e inspirar este proyecto.
 
 ## Enlaces del Proyecto
